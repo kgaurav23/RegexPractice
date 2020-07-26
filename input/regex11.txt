@@ -1,6 +1,8 @@
 xxx.yy
 xx.yyyy
 x.yy
+.yy
+.
 xy
 xxyy
 yyxx

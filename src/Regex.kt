@@ -6,8 +6,8 @@ import java.util.regex.Pattern
 fun main() {
 
     // The regex pattern
-    val REGEX_PATTERN = "foo.bar"
-    val inputFileName = "input/regex02.txt"
+    val REGEX_PATTERN = "[x*]\\.[y*]"
+    val inputFileName = "input/regex11.txt"
     // Create a Pattern object
     val r = Pattern.compile(REGEX_PATTERN)
 
